@@ -69,7 +69,7 @@ function App()  {
      
       <form className='col-sm-6 mx-auto bg-slate-300 rounded-xl  m-12 p-7' onSubmit={handleSubmit}>
 
-        <h2 className='text-xl font-bold text-center'> Login Form</h2>
+        <h2 className='text-xl font-bold text-center animate__animated animate__bounce'> Login Form</h2>
       <div className="mb-3 col-sm-12">
           <label  className="form-label">Username</label>
           <input 
